@@ -1,0 +1,41 @@
+{
+  "itemGroup.blocks_tab": "Advanced Village - Блоки",
+  "itemGroup.materials_tab": "Advanced Village - Материалы",
+  "itemGroup.armor_tab": "Advanced Village - Доспехи",
+  "itemGroup.weapons_tab": "Advanced Village - Оружие",
+
+  "item.avm.lord_mark" : "Грамота Лорда",
+
+  "item.avm.guard_helmet" : "Шапель с кольчужным койфом",
+  "item.avm.guard_chestplate" : "Хауберк с синим сюрко",
+  "item.avm.guard_leggings" : "Штаны хауберка",
+  "item.avm.guard_boots" : "Чугунные Ботинки",
+  "item.avm.nasal_helmet" : "Шлем с кожаным подшлемником",
+  "item.avm.hauberk_chestplate" : "Хауберк",
+
+  "item.avm.falchion" : "Фальшион",
+  "item.avm.hatchet" : "Топорик",
+  "item.avm.greataxe" : "Большой Топор",
+
+  "item.avm.cast_iron_bar" : "Чугунная заготовка",
+  "item.avm.cast_iron_ingot" : "Чугунный слиток",
+  "item.avm.cast_iron_nugget" : "Чугунный кусочек",
+  "item.avm.cast_iron_chain_bar" : "Чугунная кольчужная заготовка",
+
+  "block.avm.trap_block" : "Люк",
+  "block.avm.sealed_barrel_block" : "Запечатанная бочка",
+
+  "block.avm.chopping_block" : "Плаха",
+  "block.avm.alchemy_table" : "Стол алхимика",
+  "block.avm.mill_block" : "Мельница",
+  "block.avm.glass_blower_table" : "Стол стеклодува",
+
+  "screen.avm.mill_block" : "Мельница",
+
+  "entity.minecraft.villager.avm.slayer": "Палач",
+  "entity.minecraft.villager.avm.alchemist": "Алхимик",
+  "entity.minecraft.villager.avm.miller": "Мельник",
+  "entity.minecraft.villager.avm.glass_blower": "Стеклодув",
+  "entity.avm.guard": "Стражник"
+
+}

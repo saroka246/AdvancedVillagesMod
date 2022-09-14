@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "avm:block/trap_block"}
+  }
+}

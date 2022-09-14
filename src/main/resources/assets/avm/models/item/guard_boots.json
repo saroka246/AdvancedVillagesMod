@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "avm:items/cast_iron_boots_icon"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "avm:items/hauberk_with_blue_surcoat_icon"
+  }
+}

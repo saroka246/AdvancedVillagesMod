@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "top": "avm:blocks/sealed_barrel_block/barrel_top",
+    "side": "avm:blocks/sealed_barrel_block/barrel_side",
+    "bottom": "avm:blocks/sealed_barrel_block/barrel_bottom"
+  }
+}

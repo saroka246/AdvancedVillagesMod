@@ -1,0 +1,40 @@
+{
+  "itemGroup.blocks_tab": "Advanced Village - Blocks",
+  "itemGroup.materials_tab": "Advanced Village - Materials",
+  "itemGroup.armor_tab": "Advanced Village - Armor",
+  "itemGroup.weapons_tab": "Advanced Village - Weapons",
+
+  "item.avm.lord_mark" : "Lord Mark",
+
+  "item.avm.guard_helmet" : "Kettel with Mail Coif",
+  "item.avm.guard_chestplate" : "Hauberk with blue surcoat",
+  "item.avm.guard_leggings" : "Hauberk Leggings",
+  "item.avm.guard_boots" : "Cast Iron Boots",
+  "item.avm.nasal_helmet" : "Leather Padded Nasal Helmet",
+  "item.avm.hauberk_chestplate" : "Hauberk",
+
+  "item.avm.falchion" : "Falchion",
+  "item.avm.hatchet" : "Hatchet",
+  "item.avm.greataxe" : "Greataxe",
+
+  "item.avm.cast_iron_bar" : "Cast Iron Bar",
+  "item.avm.cast_iron_ingot" : "Cast Iron Ingot",
+  "item.avm.cast_iron_nugget" : "Cast Iron Nugget",
+  "item.avm.cast_iron_chain_bar" : "Cast Iron Chain Bar",
+
+  "block.avm.trap_block" : "Trap Block",
+  "block.avm.sealed_barrel_block" : "Sealed Barrel",
+
+  "block.avm.chopping_block" : "Chopping Block",
+  "block.avm.alchemy_table" : "Alchemy Table",
+  "block.avm.mill_block" : "Mill",
+  "block.avm.glass_blower_table" : "Glass Blower Table",
+
+  "screen.avm.mill_block" : "Mill",
+
+  "entity.minecraft.villager.avm.slayer": "Slayer",
+  "entity.minecraft.villager.avm.alchemist": "Alchemist",
+  "entity.minecraft.villager.avm.miller": "Miller",
+  "entity.minecraft.villager.avm.glass_blower": "Glass Blower",
+  "entity.avm.guard": "Guard"
+}

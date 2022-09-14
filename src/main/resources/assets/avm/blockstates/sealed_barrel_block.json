@@ -1,0 +1,11 @@
+{
+  "variants": {
+    "facing=down": { "model": "avm:block/sealed_barrel_block", "x": 180 },
+    "facing=up": { "model": "avm:block/sealed_barrel_block" },
+    "facing=north": { "model": "avm:block/sealed_barrel_block", "x": 90 },
+    "facing=south": { "model": "avm:block/sealed_barrel_block", "x": 90, "y": 180 },
+    "facing=west": { "model": "avm:block/sealed_barrel_block", "x": 90, "y": 270 },
+    "facing=east": { "model": "avm:block/sealed_barrel_block", "x": 90, "y": 90 }
+
+  }
+}

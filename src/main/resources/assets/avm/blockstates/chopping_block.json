@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "avm:block/chopping_block"},
+    "facing=south": { "model": "avm:block/chopping_block", "y": 180 },
+    "facing=west": { "model": "avm:block/chopping_block", "y": 270 },
+    "facing=east": { "model": "avm:block/chopping_block", "y": 90 }
+  }
+}

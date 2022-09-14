@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "avm:block/glass_blower_table"},
+    "facing=south": { "model": "avm:block/glass_blower_table", "y": 180 },
+    "facing=west": { "model": "avm:block/glass_blower_table", "y": 270 },
+    "facing=east": { "model": "avm:block/glass_blower_table", "y": 90 }
+  }
+}
