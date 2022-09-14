@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XLX",
+    "I I"
+  ],
+  "key": {
+    "X": {
+      "item": "avm:cast_iron_chain_bar"
+    },
+    "L": {
+      "item": "minecraft:leather"
+    },
+    "I": {
+      "item": "avm:cast_iron_ingot"
+    }
+  },
+  "result": {
+    "item": "avm:guard_boots"
+  }
+}

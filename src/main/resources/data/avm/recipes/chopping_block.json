@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    " a ",
+    " x ",
+    "   "
+  ],
+  "key":
+  {
+    "a":
+    {
+      "item": "minecraft:iron_axe"
+    },
+    "x":
+    {
+      "item": "minecraft:oak_log"
+    }
+  },
+  "result":
+  {
+    "item": "avm:chopping_block",
+    "count": 1
+  }
+}

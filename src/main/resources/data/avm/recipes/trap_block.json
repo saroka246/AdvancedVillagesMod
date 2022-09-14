@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "   ",
+    "xxx",
+    "   "
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "minecraft:spruce_trapdoor"
+    }
+  },
+  "result":
+  {
+    "item": "avm:trap_block",
+    "count": 3
+  }
+}

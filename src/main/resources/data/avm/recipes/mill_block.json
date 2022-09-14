@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    " s ",
+    " a ",
+    " l "
+  ],
+  "key":
+  {
+    "s":
+    {
+      "item": "minecraft:smooth_stone"
+    },
+    "a":
+    {
+      "item": "minecraft:polished_andesite"
+    },
+    "l":
+    {
+      "item": "minecraft:stripped_spruce_log"
+    }
+  },
+  "result":
+  {
+    "item": "avm:mill_block",
+    "count": 1
+  }
+}

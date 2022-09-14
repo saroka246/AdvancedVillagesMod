@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "fbp",
+    "sss",
+    "c c"
+  ],
+  "key":
+  {
+    "f":
+    {
+      "item": "minecraft:blast_furnace"
+    },
+    "b":
+    {
+      "item": "minecraft:glass_bottle"
+    },
+    "p":
+    {
+      "tag": "minecraft:planks"
+    },
+    "s":
+    {
+      "item": "minecraft:smooth_stone"
+    },
+    "c":
+    {
+      "item": "minecraft:cobblestone"
+    }
+  },
+  "result":
+  {
+    "item": "avm:alchemy_table",
+    "count": 1
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "PIP",
+    "P P",
+    "PSP"
+  ],
+  "key":
+  {
+    "P":
+    {
+      "tag": "minecraft:planks"
+    },
+    "S":
+    {
+      "tag": "minecraft:wooden_slabs"
+    },
+    "I":
+    {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result":
+  {
+    "item": "avm:sealed_barrel_block",
+    "count": 1
+  }
+}

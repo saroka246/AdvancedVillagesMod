@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "avm:cast_iron_bar"
+  },
+  "result": "avm:cast_iron_ingot",
+  "experience": 3,
+  "cookingtime": 500
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "CCC",
+    "CLC",
+    "C C"
+  ],
+  "key":
+  {
+    "C":
+    {
+      "item": "avm:cast_iron_chain_bar"
+    },
+    "L":
+    {
+      "item": "minecraft:leather"
+    }
+  },
+  "result":
+  {
+    "item": "avm:guard_leggings",
+    "count": 1
+  }
+}

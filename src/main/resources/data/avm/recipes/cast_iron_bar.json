@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    " i ",
+    " g ",
+    " i "
+  ],
+  "key":
+  {
+    "i":
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    "g":
+    {
+      "item": "minecraft:glowstone_dust"
+    }
+  },
+  "result":
+  {
+    "item": "avm:cast_iron_bar",
+    "count": 1
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "n n",
+    " n ",
+    "n n"
+  ],
+  "key":
+  {
+    "n":
+    {
+      "item": "avm:cast_iron_nugget"
+    }
+  },
+  "result":
+  {
+    "item": "avm:cast_iron_chain_bar",
+    "count": 1
+  }
+}
